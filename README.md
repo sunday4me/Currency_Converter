@@ -2,7 +2,7 @@
 
 Currency converter from dollar to the following currency
 
-''' List of available currencies: 
+## List of available currencies: 
 
 * -> NGN (Nigeria Naira)  
 * -> MKD (Macedonian Denar) 
